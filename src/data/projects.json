@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Stock Prediction",
+    "imageSrc": "projects/download.png",
+    "description": "This project aims to predict stock prices using historical data and machine learning algorithms. The primary goal is to develop a predictive model that can assist investors in making informed decisions.",
+    "skills": ["Python", "yfinance", "Keras", "Scikit-learn"],
+    "demo": "https://ml-stock-prediction.streamlit.app/",
+    "source": "https://github.com/shinewithsachin/Stock-Prediction"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Blog Application",
+    "imageSrc": "projects/1692970318806.png",
+    "description": "This project is made for users to create and manage their blog posts, allowing for rich content creation. Users can easily upload images using Multer, enhancing their posts with visual elements.",
+    "skills": ["Node.js", "Express.js", "EJS", "Multer", "MongoDB"],
+    "demo": "http://localhost:8000",
+    "source": "https://github.com/shinewithsachin/blogApplication"
   },
   {
-    "title": "Project C",
+    "title": "School Management System API",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This API is designed to facilitate comprehensive management of school data, providing functionalities for adding new schools and retrieving a list of nearby institutions based on geographical coordinates.",
+    "skills": ["Node.js", "Express.js", "MySQL"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/shinewithsachin/School-Management"
   }
 ]
