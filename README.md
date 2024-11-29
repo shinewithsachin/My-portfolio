@@ -34,6 +34,8 @@ To run this project locally, follow these steps:
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Project Preview
 ![Introduction Section](https://github.com/user-attachments/assets/3829263f-541b-4e1b-9034-2757c1389eb6)
 ![About Section](https://github.com/user-attachments/assets/d8812ea5-0df3-440b-91d0-a58729721adc)
 ![Skills Section](https://github.com/user-attachments/assets/10d65359-f1dc-4c3f-931f-6e12ae6fde92)
